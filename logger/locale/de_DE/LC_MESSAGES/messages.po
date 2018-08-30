@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lggr.io\n"
+"POT-Creation-Date: 2016-02-02 20:11+0100\n"
+"PO-Revision-Date: 2017-12-27 16:03+0100\n"
+"Last-Translator: Kai Kretschmann <kai@kaikretschmann.de>\n"
+"Language-Team: Kai <info@lggr.io>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: tpl\n"
+"X-Poedit-SearchPathExcluded-0: contrib\n"
+
+#: archived.php:49 index.php:254 live.php:31
+msgid "empty result"
+msgstr "leeres Ergebnis"
+
+#: index.php:23
+msgid "This hour"
+msgstr "Jetzt"
+
+#: index.php:24
+msgid "Today"
+msgstr "Heute"
+
+#: index.php:25
+msgid "Week"
+msgstr "Woche"
+
+#: index.php:37
+msgid "Text search for"
+msgstr "Text Suche nach"
+
+#: index.php:52
+msgid "Filter by server"
+msgstr "Filter nach Server"
+
+#: index.php:54
+msgid "Filter by level"
+msgstr "Filter nach Level"
+
+#: index.php:59
+msgid "Filter by time range between"
+msgstr "Filter nach Zeitbereich zwischen"
+
+#: index.php:59
+msgid "and"
+msgstr "und"
+
+#: index.php:93
+msgid "Server status and filter"
+msgstr "Server Status und Filter"
+
+#: index.php:99
+msgid "Levels"
+msgstr "Level"
+
+#: index.php:132
+msgid "Distribution of selected event levels."
+msgstr "Verteilung der gewählten Level."
+
+#: index.php:155 stats.php:35
+msgid "Servers"
+msgstr "Server"
+
+#: index.php:171
+#, php-format
+msgid "Most reporting servers (5% or more)."
+msgstr "Server mit den meisten Meldungen (5% oder mehr)."
+
+#: index.php:218 index.php:220
+msgid "Special"
+msgstr "Speziell"
+
+#: index.php:235
+msgid "Reset"
+msgstr "Zurücksetzen"
+
+#: live.php:38
+msgid "Live view"
+msgstr "Echtzeit Ansicht"
+
+#: stats.php:34
+msgid "Messages per hour"
+msgstr "Meldungen pro Stunde"
+
+#: stats.php:38
+msgid "Message levels relative distribution"
+msgstr "Relative Verteilung der Level"
+
+#: stats.php:39
+msgid "Messages by server"
+msgstr "Meldungen pro Server"
+
+#: stats.php:41
+msgid "Database"
+msgstr "Datenbank"
+
+#: stats.php:42
+msgid "Events in DB"
+msgstr "Einträge in Datenbank"
+
+#: stats.php:42
+msgid "Oldest entry"
+msgstr "Ältester Eintrag"
+
+#: tpl/foot.inc.php:22
+msgid "queries in"
+msgstr "Abfragen in"
+
+#: tpl/foot.inc.php:22
+msgid "seconds"
+msgstr "Sekunden"
+
+#: tpl/foot.inc.php:22
+msgid "Session"
+msgstr "Sitzung"
+
+#: tpl/foot.inc.php:22
+msgid "by"
+msgstr "von"
+
+#: tpl/nav.inc.php:14
+msgid "Live"
+msgstr "Echtzeit"
+
+#: tpl/nav.inc.php:15
+msgid "Statistic"
+msgstr "Statistik"
+
+#: tpl/nav.inc.php:16
+msgid "Archived"
+msgstr "Archiviert"
+
+#: tpl/nav.inc.php:17
+msgid "Project"
+msgstr "Projekt"
+
+#: tpl/nav.inc.php:21
+msgid "Search for program"
+msgstr "Suche nach Programm"
+
+#: tpl/nav.inc.php:22
+msgid "Search in messages"
+msgstr "Suche in Nachrichten..."
+
+#: tpl/nav.inc.php:24
+msgid "Search"
+msgstr "Suche"
+
+#: tpl/paginate.inc.php:8 tpl/paginate.inc.php:10
+msgid "Ten left"
+msgstr "Zehn Links"
+
+#: tpl/paginate.inc.php:14 tpl/paginate.inc.php:16
+msgid "Previous"
+msgstr "zurück"
+
+#: tpl/paginate.inc.php:39 tpl/paginate.inc.php:41
+msgid "Next"
+msgstr "vor"
+
+#: tpl/paginate.inc.php:45 tpl/paginate.inc.php:47
+msgid "Ten right"
+msgstr "Zehn rechts"
